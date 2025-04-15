@@ -28,12 +28,12 @@ a { text-decoration: none;}
 body {
     font-family: 'Montserrat', sans-serif;
     color: #fff;
-    background-color: #003649;
-    background-image: url(./bg.jpg);
+    background-color: #007172;
+    background-image: url(./bg-md.png);
     background-repeat: no-repeat;
     background-position: center top;
     background-size: 100%;
-    padding: 20px 0;
+    padding: 10px 0;
 }
 .container {
     width: 356px;
@@ -46,7 +46,8 @@ body {
     text-align: center;
 }
 #box-1 #logo {
-    max-width: 200px;
+    height: 100%;
+    max-width: 250px;
     margin: 0 auto 20px;
 }
 #box-1 #logo img {
