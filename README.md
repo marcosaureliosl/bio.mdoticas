@@ -1,12 +1,3 @@
-Perfeito, Marcos! Agora que o projeto evoluiu para a **Bio da MD Óticas**, vou te ajudar a atualizar o `README.md` com:
-
-- Título e descrição coerentes com o novo objetivo  
-- Link atualizado do GitHub Pages  
-- Prints atualizados (incluindo a imagem que você enviou)  
-- O que foi aprendido e tecnologias usadas  
-- Estilo visual mais organizado e profissional
-
----
 
 ### ✅ Novo `README.md` adaptado para o projeto **bio.mdoticas**
 
