@@ -1,66 +1,67 @@
-# Projeto-clone site-Digital-College.
+Perfeito, Marcos! Agora que o projeto evoluiu para a **Bio da MD Óticas**, vou te ajudar a atualizar o `README.md` com:
 
-Certamente! O projeto concluído envolve a criação de uma página inspirada no site do DNA Digital College, onde o curso está sendo realizado. O resultado é um clone bem-sucedido que replica a aparência e a funcionalidade do site original de maneira impecável.
+- Título e descrição coerentes com o novo objetivo  
+- Link atualizado do GitHub Pages  
+- Prints atualizados (incluindo a imagem que você enviou)  
+- O que foi aprendido e tecnologias usadas  
+- Estilo visual mais organizado e profissional
 
-Na página clonada, o layout foi meticulosamente recriado, usando HTML e CSS para estruturar e estilizar os elementos. A estilização global foi cuidadosamente ajustada, incluindo o reset de estilos e a definição de estilos globais para garantir consistência visual em todos os elementos.
+---
 
-O conteúdo do site foi adaptado para corresponder ao original, com seções como "Imersões" sendo recriadas. Nessa seção, cada imersão é apresentada em um design de cartão, contendo uma imagem correspondente à imersão e um botão de inscrição. O design responsivo foi aplicado, assegurando que a página se ajuste harmoniosamente a diferentes tamanhos de tela e dispositivos.
+### ✅ Novo `README.md` adaptado para o projeto **bio.mdoticas**
 
-Uma atenção especial foi dada ao detalhe de cada componente, incluindo a manipulação do tamanho e alinhamento das imagens para criar um equilíbrio visual agradável. Além disso, animações sutis foram adicionadas para interações do usuário, como o efeito de escala ao passar o cursor sobre os botões de inscrição.
+```markdown
+# 🌐 Bio da MD Óticas
 
-Esse projeto demonstra não apenas a habilidade de replicar visualmente um site existente, mas também a compreensão da estrutura HTML e das técnicas de estilização CSS necessárias para alcançar resultados de alta qualidade. A conclusão bem-sucedida desse projeto reflete um domínio das tecnologias web, bem como um olhar atento aos detalhes visuais e de design. O clone resultante proporciona uma experiência autêntica e cativante, semelhante à original, o que atesta a competência do autor na criação de interfaces web impactantes.
+Este projeto tem como objetivo criar uma página de **bio interativa** para a MD Óticas, reunindo todos os principais links e ações disponíveis para clientes e alunos. A página foi desenvolvida com foco em **design responsivo, usabilidade e identidade visual personalizada** para a marca.
 
-## o que aprendi.
+## 🔎 Funcionalidades
 
-Ao realizar esse projeto, pude aprender uma série de conceitos valiosos relacionados ao desenvolvimento web e design de interfaces. Uma das áreas que destaco é a compreensão e aplicação de estilos globais, que contribuíram significativamente para a consistência visual e estética do site clonado.
+- Acesso direto a orçamentos, catálogos de óculos e agendamentos
+- Área de cursos e cibersegurança
+- Promoções mensais com QR Code e grupo de WhatsApp
+- Botões para redes sociais: WhatsApp, Instagram, Facebook, TikTok, LinkedIn e YouTube
+- Totalmente responsivo
 
-Ao implementar estilos globais, aprendi a importância de criar uma base sólida para os elementos do site. Usando o conceito de "reset" de estilos, consegui eliminar as diferenças entre os estilos padrão dos navegadores, garantindo que o design ficasse alinhado independentemente do navegador utilizado pelos usuários.
+## 🚀 Link da Página
 
-Em resumo, o uso de estilos globais foi fundamental para criar um design harmonioso e uniforme em todo o projeto. Através dessa abordagem, pude explorar o poder da CSS para controlar a aparência visual dos elementos e compreender a importância de manter uma coesão estilística em todas as partes do site. Essas habilidades adquiridas serão valiosas em futuros projetos de desenvolvimento web, onde a consistência visual desempenha um papel crucial na experiência do usuário.
+🔗 [https://marcosaureliosl.github.io/bio.mdoticas/](https://marcosaureliosl.github.io/bio.mdoticas/)
 
-## Demo do Projeto
+## 📸 Imagem do Projeto
 
-URL: (https://marcosaureliosl.github.io/projeto-clonesite-digital-college/)
+![bio-md-oticas-preview](./assets/img/mdoticastela.png) 
 
-# Codigo
+## 💡 O que foi aprendido
+
+Durante o desenvolvimento deste projeto, foi possível reforçar conhecimentos importantes como:
+
+- Criação de layouts centrados no usuário
+- Estilização com CSS focando em identidade visual
+- Reset global e estrutura limpa de HTML/CSS
+- Uso de cores acessíveis e animações suaves
+- Deploy com GitHub Pages
+
+## 🧪 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- Git + GitHub
+- GitHub Pages
+
+## 📁 Estrutura do Projeto
 
 ```
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, font, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td {
-	border: 0;
-	font-family: inherit;
-	font-size: 100%;
-	font-style: inherit;
-	font-weight: inherit;
-	margin: 0;
-	outline: 0;
-	padding: 0;
-	vertical-align: baseline;
-}
-
-strong {font-weight: bold;}
-i, em { font-style: italic;}
-a { text-decoration:none}
-
-strong { font-weight: bold;}
-i,em {font-style: italic;}
-a { text-decoration: none;}
+bio.mdoticas/
+│
+├── index.html
+├── README.md
+└── assets/
+    └── img/
+        └── md-bio-preview.png
 ```
 
-# Fotos do Projeto
+## 🙏 Agradecimentos
 
-![2023-08-11 (1)](https://github.com/marcosaureliosl/projeto-clonesite-digital-college/assets/127764997/12de163d-b490-4100-bde4-0781d2d6ec47)
+Agradeço a todos que me acompanharam nesse processo de evolução. Este projeto é mais um passo na jornada de aprendizado e construção de portfólio. Obrigado pelo apoio! 💙
+```
 
-
-![2023-08-11](https://github.com/marcosaureliosl/projeto-clonesite-digital-college/assets/127764997/cb4fdc27-4ce0-47c1-a759-e61c303eedf0)
-
-
-# Agradecimentos 
-
-Agradeço imensamente a todos que acompanham o meu progresso. Suas palavras de encorajamento e apoio têm sido inspiradoras. Cada gesto e incentivo fortalecem minha jornada e me motivam a alcançar novas conquistas. Juntos, continuaremos a crescer e evoluir. Muito obrigado por fazerem parte desse caminho.
